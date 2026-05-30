@@ -4,7 +4,7 @@
 
 **Authors:** Hanane Mamalik & Kanak Yadav  
 **Program:** Ironhack Data Analytics Bootcamp — Berlin, 2026  
-**Presentation:** [View Google Slides]([https://docs.google.com/presentation/d/1uBOyjTdkTMEvdgi6xWfE6fVsWyRD9f4xoPUxmHrBzLc/edit?usp=sharing])
+**Presentation:** [View Google Slides](https://docs.google.com/presentation/d/1uBOyjTdkTMEvdgi6xWfE6fVsWyRD9f4xoPUxmHrBzLc/edit?usp=sharing)
 
 ---
 
