@@ -1,10 +1,10 @@
-# 🎵 Hype Check — Predicting Spotify Song Popularity Using Machine Learning
+# 🎵 Hype Check - Predicting Spotify Song Popularity Using Machine Learning
 
 > *Can we predict whether a song will become popular on Spotify by analyzing how it sounds and where it lives across platforms?*
 
 **Authors:** Hanane Mamalik & Kanak Yadav  
 **Program:** Ironhack Data Analytics Bootcamp — Berlin, 2026  
-**Presentation:** [View Google Slides](https://docs.google.com/presentation/d/1uBOyjTdkTMEvdgi6xWfE6fVsWyRD9f4xoPUxmHrBzLc/edit?slide=id.p8#slide=id.p8)
+**Presentation:** [View Google Slides]([https://docs.google.com/presentation/d/1uBOyjTdkTMEvdgi6xWfE6fVsWyRD9f4xoPUxmHrBzLc/edit?usp=sharing])
 
 ---
 
