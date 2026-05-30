@@ -53,20 +53,20 @@ Spotify-Machine-Learning-Project/
 
 ## 🗃️ Data Sources
 
-### Dataset 1 — Most Streamed Spotify Songs 2024 (Kaggle)
+### Dataset 1 : Most Streamed Spotify Songs 2024 (Kaggle)
 ~4,600 tracks with:
 - Spotify streams, playlist & chart counts
 - YouTube views & likes, TikTok views & likes
 - Shazam counts, AirPlay spins
 - Genre, ISRC code
 
-### Dataset 2 — Audio Features via RapidAPI (Musixae)
+### Dataset 2 : Audio Features via RapidAPI (Musixae)
 Fetched using ISRC → Spotify ID → audio features pipeline:
 - Danceability, Energy, Loudness, Valence, Tempo
 - Speechiness, Acousticness, Instrumentalness, Liveness
 - Key, Mode, Time Signature, Duration (ms)
 
-> **Note:** Spotify's native audio features endpoint was deprecated in November 2024. Musixae API was used as the alternative.
+> **Note:** Spotify's native audio features endpoint was deprecated in November 2024. Musixae API was used as the alternative - see [this article](https://medium.com/@musicae.io/spotify-audio-analysis-was-deprecated-heres-the-best-spotify-api-alternative-for-developers-585750724f48) for how we found and connected to it.
 
 ### Final Dataset
 - **2,727 tracks × 28 features** after merging and cleaning
